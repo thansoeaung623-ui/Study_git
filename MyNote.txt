@@ -1,0 +1,17 @@
+GitHub ရဲ့ အဓိကအသုံးများ
+
+Repository Hosting
+
+Project code တွေကို online မှာ သိမ်းထားနိုင်တယ်။
+
+Collaboration
+
+Team members တွေ code ကို အတူတူ ပြင်နိုင်တယ်။
+
+Pull Request
+
+Code ပြောင်းထားတာကို review လုပ်ပြီး merge လုပ်နိုင်တယ်။
+
+Open Source Projects
+
+Developer တွေ open source project တွေကို share လုပ်နိုင်တယ်။
